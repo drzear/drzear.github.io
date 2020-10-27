@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.354f5f5e.chunk.css",
-    "main.js": "/static/js/main.b38f3b7a.chunk.js",
-    "main.js.map": "/static/js/main.b38f3b7a.chunk.js.map",
+    "main.css": "/static/css/main.fcea6ed9.chunk.css",
+    "main.js": "/static/js/main.29668625.chunk.js",
+    "main.js.map": "/static/js/main.29668625.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ca4ed86.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ca4ed86.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.25cd0fba.chunk.js": "/static/js/2.25cd0fba.chunk.js",
-    "static/js/2.25cd0fba.chunk.js.map": "/static/js/2.25cd0fba.chunk.js.map",
+    "static/js/2.6f77cda1.chunk.js": "/static/js/2.6f77cda1.chunk.js",
+    "static/js/2.6f77cda1.chunk.js.map": "/static/js/2.6f77cda1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9622602b1419f8a6effb610b9204a698.js": "/precache-manifest.9622602b1419f8a6effb610b9204a698.js",
+    "precache-manifest.d14d88e89daf87982b7495ffe2555a88.js": "/precache-manifest.d14d88e89daf87982b7495ffe2555a88.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.354f5f5e.chunk.css.map": "/static/css/main.354f5f5e.chunk.css.map",
-    "static/js/2.25cd0fba.chunk.js.LICENSE.txt": "/static/js/2.25cd0fba.chunk.js.LICENSE.txt",
+    "static/css/main.fcea6ed9.chunk.css.map": "/static/css/main.fcea6ed9.chunk.css.map",
+    "static/js/2.6f77cda1.chunk.js.LICENSE.txt": "/static/js/2.6f77cda1.chunk.js.LICENSE.txt",
     "static/media/bineBondi.JPG": "/static/media/bineBondi.c903e910.JPG",
     "static/media/hobbit.JPG": "/static/media/hobbit.734733bb.JPG",
     "static/media/kaikoura.JPG": "/static/media/kaikoura.dcdb19c7.JPG",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/pearson.png": "/static/media/pearson.d5a34b2f.png",
+    "static/media/rhg.png": "/static/media/rhg.6690cadf.png",
+    "static/media/uiowa.svg": "/static/media/uiowa.a73c59b2.svg",
     "static/media/vanHills.JPG": "/static/media/vanHills.932a82ea.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.4ca4ed86.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.25cd0fba.chunk.js",
-    "static/css/main.354f5f5e.chunk.css",
-    "static/js/main.b38f3b7a.chunk.js"
+    "static/js/2.6f77cda1.chunk.js",
+    "static/css/main.fcea6ed9.chunk.css",
+    "static/js/main.29668625.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a5bcf24.chunk.css",
-    "main.js": "/static/js/main.d343f706.chunk.js",
-    "main.js.map": "/static/js/main.d343f706.chunk.js.map",
+    "main.css": "/static/css/main.768d24b5.chunk.css",
+    "main.js": "/static/js/main.5b8ef344.chunk.js",
+    "main.js.map": "/static/js/main.5b8ef344.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ca4ed86.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ca4ed86.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2f8ed21f.chunk.js": "/static/js/2.2f8ed21f.chunk.js",
-    "static/js/2.2f8ed21f.chunk.js.map": "/static/js/2.2f8ed21f.chunk.js.map",
+    "static/js/2.5caae648.chunk.js": "/static/js/2.5caae648.chunk.js",
+    "static/js/2.5caae648.chunk.js.map": "/static/js/2.5caae648.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.02d6010c586e824526f6290737807662.js": "/precache-manifest.02d6010c586e824526f6290737807662.js",
+    "precache-manifest.23c48e949c2bf1def384f36ce16ae133.js": "/precache-manifest.23c48e949c2bf1def384f36ce16ae133.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.6a5bcf24.chunk.css.map": "/static/css/main.6a5bcf24.chunk.css.map",
-    "static/js/2.2f8ed21f.chunk.js.LICENSE.txt": "/static/js/2.2f8ed21f.chunk.js.LICENSE.txt",
+    "static/css/main.768d24b5.chunk.css.map": "/static/css/main.768d24b5.chunk.css.map",
+    "static/js/2.5caae648.chunk.js.LICENSE.txt": "/static/js/2.5caae648.chunk.js.LICENSE.txt",
     "static/media/a1.JPG": "/static/media/a1.d108dad9.JPG",
     "static/media/a5.JPG": "/static/media/a5.f2cb6f03.JPG",
     "static/media/a6.JPG": "/static/media/a6.6ed07638.JPG",
@@ -30,6 +30,7 @@
     "static/media/g6.jpg": "/static/media/g6.8b5075c2.jpg",
     "static/media/hobbit.JPG": "/static/media/hobbit.0b2525e0.JPG",
     "static/media/kaikoura.JPG": "/static/media/kaikoura.700cf43c.JPG",
+    "static/media/linkedin.png": "/static/media/linkedin.4a32187a.png",
     "static/media/n1.JPG": "/static/media/n1.7de26ca9.JPG",
     "static/media/n2.JPG": "/static/media/n2.4d8ea33f.JPG",
     "static/media/n3.JPG": "/static/media/n3.d4440121.JPG",
@@ -64,8 +65,8 @@
   "entrypoints": [
     "static/js/runtime-main.4ca4ed86.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2f8ed21f.chunk.js",
-    "static/css/main.6a5bcf24.chunk.css",
-    "static/js/main.d343f706.chunk.js"
+    "static/js/2.5caae648.chunk.js",
+    "static/css/main.768d24b5.chunk.css",
+    "static/js/main.5b8ef344.chunk.js"
   ]
 }
